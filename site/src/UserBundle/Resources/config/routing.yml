@@ -1,0 +1,3 @@
+user_dashbroad:
+    path:     /
+    defaults: { _controller: UserBundle:Default:index }
